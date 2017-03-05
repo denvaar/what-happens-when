@@ -4,7 +4,9 @@ This project explores -- in as much detail as possible -- the sequence of events
 
 Inspired mostly by [this repo](https://github.com/alex/what-happens-when).
 
-## y tho
+## Why?
+
+<img src="http://i.imgur.com/yNlQWRM.jpg" width="250" />
 
 - It's interesting.
 - 2 learn stuff.
