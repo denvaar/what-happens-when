@@ -18,6 +18,6 @@ Please do! Anyone is welcome to contribute anything that's missing from existing
 
 # Actions
 
-- [What happens when... `d = {'hello': 'world'}` entered into a Python interactive shell?]()
+- [Python dictionary initialization (What happens when... `d = {'hello': 'world'}` entered into a Python interactive shell?)](https://github.com/denvaar/what-happens-when/blob/master/python_dict_initialization.md)
 
 
