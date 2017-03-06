@@ -16,7 +16,7 @@ Inspired mostly by [this repo](https://github.com/alex/what-happens-when).
 
 Please do! Anyone is welcome to contribute anything that's missing from existing actions, or create a new one.
 
-# Actions
+# Table of Contents
 
 - [Python dictionary initialization (What happens when... `d = {'hello': 'world'}` entered into a Python interactive shell?)](https://github.com/denvaar/what-happens-when/blob/master/python_dict_initialization.md)
 
